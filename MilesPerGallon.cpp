@@ -1,5 +1,5 @@
 /*
-CSC-120- Intro to Computer Sci/OOP
+CSC-120- Intro to Comp Sci/OOP
 Project Name: MilesPerGallon
 Student: Weiquan Mai
 Date: September 21, 2024
