@@ -1,6 +1,6 @@
 /*
 CSC-120- Intro to Computer Sci/OOP
-Project Jame: MilesPerGallon
+Project Name: MilesPerGallon
 Student: Weiquan Mai
 Date: September 21, 2024
 Description: This program asks user for information regarding their car, and then calculates the car's mile per gallon.
